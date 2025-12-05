@@ -4,16 +4,7 @@ An LLM-based digital twin of Jamie Dimon (CEO of JPMorgan Chase) trained on 17 y
 
 ## 🌐 Interactive Demo Website
 
-Open `index.html` in your browser to explore the project interactively.
-
-```bash
-# Option 1: Open directly
-open index.html
-
-# Option 2: Local server (recommended)
-python3 -m http.server 8000
-# Visit http://localhost:8000
-```
+- [CEO Digital Twin Demo Website](https://github.com/ashleyyu5801-png/CEO-digital-twin-based-on-earnings-call-website/deployments/github-pages)
 
 ## 📊 Project Overview
 
@@ -113,4 +104,4 @@ We generated text-to-speech audio for all 43 test responses across 4 specificati
 
 ## 🔗 Links
 
-- [Full Results Data (Dropbox)](https://www.dropbox.com/scl/fo/htkfxh4b4779z5r4aa1f4/ALGOhpKNLWzcNSB9M3zuLW0?rlkey=nkkukhf3zs4gt5gfe3td0ttjn&st=07ofqp4j&dl=0)
+- [Full Evaluation Results Data (Dropbox)](https://www.dropbox.com/scl/fo/htkfxh4b4779z5r4aa1f4/ALGOhpKNLWzcNSB9M3zuLW0?rlkey=nkkukhf3zs4gt5gfe3td0ttjn&st=07ofqp4j&dl=0)
